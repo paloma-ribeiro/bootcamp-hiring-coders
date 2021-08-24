@@ -1,0 +1,18 @@
+#add {
+  padding: 10px;
+  color: white;
+  background-color: blue;
+}
+
+#input {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#toDoContainer {
+  font-family: Arial, Helvetica, sans-serif;
+}
